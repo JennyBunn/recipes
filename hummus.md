@@ -1,5 +1,5 @@
 #Ingredients
-- chickpeas
+-Jenny
 - garlic
 - lemon
 - olive oil
