@@ -1,5 +1,5 @@
 #Ingredients
--Jenny
+- Jenny
 - garlic
 - lemon
 - olive oil
