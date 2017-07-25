@@ -1,5 +1,5 @@
 # Ingredients
-- avacado
--lemon
+-avocado
+-lime
 -salt
 # Instructions
