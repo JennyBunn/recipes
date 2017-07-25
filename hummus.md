@@ -1,5 +1,5 @@
 #Ingredients
-- chickpeas
+- Andrea
 - garlic
 - lemon
 - olive oil
